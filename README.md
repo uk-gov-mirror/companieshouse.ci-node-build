@@ -1,2 +1,2 @@
 # ci-node-build
-A Docker image for Node 22 builds
+A Docker image for Node 24 builds
