@@ -1,4 +1,4 @@
-FROM 416670754337.dkr.ecr.eu-west-2.amazonaws.com/ci-base-build:1.0.3
+FROM 416670754337.dkr.ecr.eu-west-2.amazonaws.com/ci-base-build:1.0.5
 
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
